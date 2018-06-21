@@ -1,7 +1,8 @@
 # river.rb
 
 class River
-  def initialize(name, length, countries,)
+  attr_accessor
+  def initialize(name,length,countries,discharge)
     
   
 
