@@ -8,6 +8,18 @@ class River
     @countries = countries
     @discharge = discharge
   end 
+  
+  def flood
+    discharge = discharge+(discharge*.30)
+  end 
+  
+  def dry_up
+    discharge = discharge-(discharge*.50)
+  end
+  
+end 
+
+river1 = River.new("The Nile",)
     
   
 
