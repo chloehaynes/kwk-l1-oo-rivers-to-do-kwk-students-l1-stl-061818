@@ -24,7 +24,7 @@ river2 = River.new("The Mississippi", 2320, "United States of America",  593000)
 river3 = River.new("The Amazon", 4345, "Brazil, Peru, Columbia", 7381000)
 river4 = River.new("The Seine", 482, "France", 17660)
 river5 = RIver.new("The Yangtze", 3915, "China", 1065000)
-river6 = River.new("The Euphrates", 1740, "")
+river6 = River.new("The Euphrates", 1740, "Syria, Turkey, Iraq", )
     
   
 
