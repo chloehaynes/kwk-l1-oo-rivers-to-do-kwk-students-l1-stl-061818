@@ -1,7 +1,7 @@
 # river.rb
 
 class River
-  def initialize
+  def initialize(name, length, countries,)
     
   
 
