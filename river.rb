@@ -20,7 +20,7 @@ class River
 end 
 
 river1 = River.new("The Nile", 4258, "Egypt, Sudan",  99940)
-river2 = River.new("The Mississippi, ")
+river2 = River.new("The Mississippi", 2320, ")
     
   
 
