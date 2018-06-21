@@ -32,6 +32,8 @@ river5.flood
 
 river6.dry_up
 
+puts river4.name
+
 
     
   
